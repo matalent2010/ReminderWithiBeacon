@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BeaconInfoVC.viewWillAppear(Bool) -&gt; ():BeaconInfoVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tblAddItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageControl.numberOfPages">
+            </PersistentString>
+            <PersistentString
+               value = "currentItem.arrivalList[0].description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.disableItemOnLastPage() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageControl.numberOfPages-1">
+            </PersistentString>
+            <PersistentString
+               value = "pageControl.currentPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RemindersManager.(getReminderData(RemindersManager) -&gt; (UITableView?) -&gt; ()).(closure #1).(closure #1):RemindersManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.allReminders[1].description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BeaconInfoVC.saveBtnClick(AnyObject) -&gt; ():BeaconInfoVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BeaconInfoVC.viewDidLoad() -&gt; ():BeaconInfoVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "beaconData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BeaconNotificationsManager.setEnableFlagForBeaconID(BeaconID, enableNotification : Bool) -&gt; ():BeaconNotificationsManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.enterMessageSet[beaconRegion.identifier]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ItemBeacon.beaconInfoEdit(UIButton) -&gt; ():ItemBeacon.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.addUponList(EKReminder) -&gt; Bool:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reminder.title">
+            </PersistentString>
+            <PersistentString
+               value = "itemList">
+            </PersistentString>
+            <PersistentString
+               value = "currentItem.arrivalList[0].description">
+            </PersistentString>
+            <PersistentString
+               value = "reminder.calendarItemExternalIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath) -&gt; UITableViewCell:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reminderItem.calendar.CGColor">
+            </PersistentString>
+            <PersistentString
+               value = "currentItem.exitList">
+            </PersistentString>
+            <PersistentString
+               value = "reminderItem.title">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.getReminderWithID(NSString) -&gt; EKReminder!:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rmdManager.allReminders[6].calendarItemIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "rmd.title">
+            </PersistentString>
+            <PersistentString
+               value = "rmdManager.allReminders[7].title">
+            </PersistentString>
+            <PersistentString
+               value = "rmdManager.allReminders[6].title">
+            </PersistentString>
+            <PersistentString
+               value = "rmdManager.allReminders[7].calendarItemIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "reminder.calendarItemExternalIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "rmd.calendarItemExternalIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewWillAppear(Bool) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageControl.currentPage">
+            </PersistentString>
+            <PersistentString
+               value = "rmdManager.allCalendars">
+            </PersistentString>
+            <PersistentString
+               value = "rmdManager.allReminders">
+            </PersistentString>
+            <PersistentString
+               value = "delegate.itemList[0]">
+            </PersistentString>
+            <PersistentString
+               value = "pageControl.numberOfPages">
+            </PersistentString>
+            <PersistentString
+               value = "delegate.itemList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "pageControl.numberOfPages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.isExistingBeaconID(String) -&gt; Bool:ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
